@@ -10,7 +10,7 @@ while (sum < 50) {
     alert("Inserisci un numero valido fino a 50");
   }
   if (sum > 50) {
-    alert("sei andato oltre con la somma!");
+    alert("sei andato oltre con la somma");
   }
 }
 console.log(sum);
